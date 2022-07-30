@@ -1,8 +1,13 @@
 👋 Hi, I’m Brodianoy Alexander
+
 👀 I’m interested in finding a job :)
+
 🌱 I’m currently learning java-script
 
+
+<hr>
 📫 How to reach me:
+
 - Telegram: https://t.me/A_res1
 - email: 8estworker@gmail.com
 
