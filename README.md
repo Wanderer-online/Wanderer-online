@@ -2,7 +2,7 @@
 
 👀 I’m interested in finding a job :)
 
-🌱 I’m currently learning java-script
+🌱 I’m currently learning java-script, React...
 
 
 <hr>
